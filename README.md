@@ -48,3 +48,7 @@ Aplikacija je sestavljena iz petih glavnih zaslonov:
 - **Firebase Cloud Storage** – shranjevanje fotografij
 - **FCM (Firebase Cloud Messaging)** – obvestila in komunikacija med uporabniki
 
+## Podatkovni model
+<img width="883" height="877" alt="image" src="https://github.com/user-attachments/assets/cb3350ab-a548-4e8e-a7ac-653100e8725b" />
+
+
